@@ -1,8 +1,8 @@
 {
-	"name": "Heroku aria2c",
-	"description": "Run aria2c on heroku",
-	"repository": "https://github.com/maple3142/heroku-aria2c",
-	"keywords": ["aria2c"],
+	"name": "tgbot",
+	"description": "itwas normle tg bot",
+	"repository": "https://github.com/venki2/a2c",
+	"keywords": ["wifi"],
 	"env": {
 		"HEROKU_APP_NAME": {
 			"description": "This should be the same as \"App name\" above."
